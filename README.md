@@ -34,7 +34,7 @@
 
 ## 📌 Featured Projects
 
-🚔 **BludCops**
+<h2🚔 **BludCops** </h2>
 <h3 align="center">A Roblox Exploiting related open-source project. </h3>
 <p align="center">
 
