@@ -64,3 +64,16 @@ A Roblox-related open-source project.
 If you enjoy my projects, consider leaving a ⭐ on one of my repositories!
 
 Happy exploiting! 🚀
+
+
+
+
+##### Something to get the message out to people.
+##### I, personally, do not exploit, in Roblox/other games, 
+##### for abusive purposes, or to gain a unfair advantage, 
+##### I exploit for FUN and to HELP others, I am the type
+##### of exploiter that people would call, "good hackers"
+##### or "Nice Cheaters" that improve boring games for the
+##### people. Thank you for understanding.
+##### Also, I don't care about Roblox any more, 
+##### Roblox might die soon, and I will move on to other games
