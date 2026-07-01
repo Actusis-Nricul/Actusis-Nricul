@@ -35,10 +35,11 @@
 ## 📌 Featured Projects
 
 🚔 **BludCops**
-A Roblox-related open-source project.
+<h3 align="center">A Roblox Exploiting related open-source project. </h3>
+<p align="center">
 
 <p align="center">
-*More exciting projects are on the way!*
+More exciting projects are on the way!
 </p>
 
 ## 🔥 GitHub Streak (I don't touch grass)
