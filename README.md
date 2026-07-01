@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I'm Actusis-Nricul!
 
-<!--
-**Actusis-Nricul/Actusis-Nricul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Roblox Developer
+🥀 Retard
+🤷 Has no idea what he is doing
 
-Here are some ideas to get you started:
+## 🚀 What I Build
+- Roblox Scripts
+- Luau utilities
+- Open-source tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Coding Languages
+- Luau
+- Lua
+- Python
+
+## 📈 Current Projects
+- 🚔 BludCops
+
+
+## 📫 Contact
+- [Discord](https://discord.gg/ANwZKq8D6a)
+- [YouTube](https://youtube.com/@ActusisGames)
