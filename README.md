@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Actusis-Nricul</h1>
 <p align="center">
+  
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Roblox+Developer;Luau+Scripter;Open-Source+Creator;GUI+Designer;Game+Security+Enthusiast;Performance+Optimizer;Developer+Experience+Focused;Always+Building+Cool+Stuff;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
