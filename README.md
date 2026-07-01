@@ -9,24 +9,24 @@
 </p>
 ---
 ## 🚀 About Me
+
 💻 Roblox developer passionate about creating games, systems, and open-source tools.
 🛠️ I enjoy building efficient Luau code, experimenting with new ideas, and sharing useful resources with the Roblox development community.
 ---
 ## ⚡ Tech Stack
+
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=luau,lua,python,git,github,vscode" />
 <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
 </p>
 ---
 ## 📂 Current Focus
-- 🎮 Roblox Game Development
 - 📜 Luau Scripting
-- 🧩 Gameplay Systems
-- 🛠️ Developer Tools
-- 🌐 Web Development
-- 📦 Open Source
+- 🛠️ Exploiter Tools
+- 📦 Open Source files FOREVER!
 ---
 ## 📌 Featured Projects
+
 🚔 **BludCops**
 A Roblox-related open-source project.
 More exciting projects are on the way!
@@ -37,22 +37,22 @@ More exciting projects are on the way!
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Actusis-Nricul&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 ---
-## 🔥 GitHub Streak
+## 🔥 GitHub Streak (I don't touch grass)
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Actusis-Nricul&theme=tokyonight&hide_border=true" />
 </p>
 ---
-## 🏆 Achievements
+## 🏆 Achievements (none yet)
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Actusis-Nricul&theme=tokyonight&no-frame=true&column=4" />
 </p>
 ---
 ## 🎯 Goals
-✅ Improve as a Luau developer
+✅ Improve as a Luau exploiter
 ✅ Build polished open-source projects
 ✅ Learn new technologies
 ✅ Help other developers
 ---
 ## 🌟 Thanks for Visiting!
 If you enjoy my projects, consider leaving a ⭐ on one of my repositories!
-Happy coding! 🚀
+Happy exploiting! 🚀
