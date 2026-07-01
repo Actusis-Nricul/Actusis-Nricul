@@ -2,7 +2,7 @@
 <p align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Roblox+Developer;Luau+Scripter;Open-Source+Creator;GUI+Designer;Luau+Exploier+Enthusiast;Game+Optimizer;Developer+Experience+Focused;Always+Building+Cool+Stuff;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Roblox+Developer;Luau+Scripter;Open-Source+Creator;GUI+Designer;Luau+Exploiting+Enthusiast;Game+Optimizer;Developer+Experience+Focused;Always+Building+Cool+Stuff;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -20,13 +20,13 @@
 ## ⚡ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=lua,python,github,vscode" />
+<img src="https://skillicons.dev/icons?i=lua,python,github,vscode,discord" />
 <img src="https://img.shields.io/badge/Luau-00A2FF?style=for-the-badge&logo=roblox&logoColor=white" />
 </p>
 
 ## 📂 Current Focus
 
-- 📜 Luau Scripting
+- 📜 Luau Exploiting Scripts
 
 - 🛠️ Exploiter Tools
 
@@ -65,6 +65,11 @@ If you enjoy my projects, consider leaving a ⭐ on one of my repositories!
 
 Happy exploiting! 🚀
 
+
+.
+.
+.
+.
 
 
 
