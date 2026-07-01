@@ -2,17 +2,18 @@
 <p align="center">
   
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Roblox+Developer;Luau+Scripter;Open-Source+Creator;GUI+Designer;Game+Security+Enthusiast;Performance+Optimizer;Developer+Experience+Focused;Always+Building+Cool+Stuff;Always+Learning+Something+New!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=00BFFF&center=true&vCenter=true&width=700&lines=Roblox+Developer;Luau+Scripter;Open-Source+Creator;GUI+Designer;Luau+Exploier+Enthusiast;Game+Optimizer;Developer+Experience+Focused;Always+Building+Cool+Stuff;Always+Learning+Something+New!" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Actusis-Nricul&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Actusis-Nricul&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Actusis-Nricul&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/Actusis-Nricul?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/github/stars/Actusis-Nricul?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/github/followers/Actusis-Nricul?style=for-the-badge&logo=github&label=Followers" />
+  <img src="https://img.shields.io/github/stars/Actusis-Nricul?style=for-the-badge&logo=github&label=Stars" />
 </p>
 
 ## 🚀 About Me
