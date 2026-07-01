@@ -11,7 +11,7 @@
 
 💻 Roblox developer passionate about creating games, systems, and open-source tools.
 
-🛠️ I enjoy building efficient Luau code, experimenting with new ideas, and sharing useful resources with the Roblox development community.
+🛠️ I enjoy building efficient Luau code, experimenting with new ideas, and sharing useful resources with the Roblox exploiter community.
 
 ## ⚡ Tech Stack
 
@@ -33,7 +33,7 @@
 🚔 **BludCops**
 A Roblox-related open-source project.
 
-More exciting projects are on the way!
+-# *More exciting projects are on the way!*
 
 ## 📈 GitHub Stats
 <p align="center">
